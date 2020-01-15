@@ -1,7 +1,7 @@
 # lab02-moshehaiem
 
 
-Javadoc: https://ucsb-cs56-w20.github.io/moshehaiem-lab02/
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-moshehaiem/
 Repo: https://ucsb-cs56-w20/moshehaiem-lab02
 
 # About this repo
